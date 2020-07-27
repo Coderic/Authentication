@@ -6,9 +6,3 @@ url: "https://schema.coderic.net"
 google_analytics: UA-628256-9
 author: Coderic
 remote_theme: CodericEcosystem/CodericTheme
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
